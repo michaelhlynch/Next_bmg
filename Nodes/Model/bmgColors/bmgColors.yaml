@@ -1,0 +1,15 @@
+Name: bmgColors
+Type: FolderType
+Children:
+- Name: bmgGreen
+  Type: BaseDataVariableType
+  DataType: Color
+  Value: "#0acf26"
+- Name: bmgBlue
+  Type: BaseDataVariableType
+  DataType: Color
+  Value: "#344751"
+- Name: bmgOrange
+  Type: BaseDataVariableType
+  DataType: Color
+  Value: "#ff7820"
